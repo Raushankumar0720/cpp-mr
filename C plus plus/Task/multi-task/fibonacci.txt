@@ -1,0 +1,2 @@
+Fibonacci series up to 2 terms:
+0 1 

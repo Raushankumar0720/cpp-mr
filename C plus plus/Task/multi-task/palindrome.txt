@@ -1,0 +1,1 @@
+The word 'madam' is a palindrome.
